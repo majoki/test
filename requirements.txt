@@ -1,0 +1,15 @@
+Flask
+Flask-Bootstrap
+Flask-Login
+Flask-Mail
+Flask-Migrate
+Flask-SQLAlchemy
+Flask-WTF
+Flask-Uploads
+Hashlib
+Time
+Datetime
+SQLAlchemy
+WTForms
+Werkzeug
+gunicorn

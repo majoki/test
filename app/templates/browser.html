@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block app_content %}
+<!DOCTYPE html>
+<title>File Browser</title>
+<h1>File Browser</h1>
+<hr>
+
+<p>URL: {{ file_url }}</p>
+<img src="{{ file_url }}">
+{% endblock %}
